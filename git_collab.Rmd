@@ -20,6 +20,7 @@ plot (cars)
 
 And here is where I will work
 ```{r Abi}
-
+3+3
+plot(cars)
 ```
 
