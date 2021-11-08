@@ -13,7 +13,8 @@ Hi Partner!
 
 Hi fellow human! Here's a code chunk where you can work:
 ```{r Daija}
-
+2 + 2
+plot (cars)
 ```
 
 
